@@ -11,3 +11,5 @@ create a .env file in backend and define your own: PORT = 5000, MONGO_URL, and J
 
 Project is accessed by this url:
 http://localhost:5000/login
+
+Blog page is accessed when you create a new account and then login
